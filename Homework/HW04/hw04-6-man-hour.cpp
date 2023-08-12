@@ -29,7 +29,7 @@
 #include <stdio.h>
 
 int main() {
-    char employeeID[11];
+    char employeeID[10];
     int workingHours;
     float hourlyRate;
 
